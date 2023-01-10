@@ -1,0 +1,15 @@
+
+    /* 元素(type)选择器 */
+p {
+    background-color: rgb(127, 255, 212);
+}
+
+    /* class选择器 */
+.c1{
+    background-color: rgb(233, 150, 122);
+}
+
+#p3{
+    background-color: rgb(224, 255, 255);
+    display: block;
+}
